@@ -9,9 +9,9 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body>
+    <body bgcolor="green">
         <?php
-        ECHO "FFF"
+        ECHO "se cambio el proyecto"
         ?>
     </body>
 </html>
